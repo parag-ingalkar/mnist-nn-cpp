@@ -1,0 +1,1 @@
+echo "This script should read a dataset image into a tensor and pretty-print it into a text file..."

@@ -1,0 +1,1 @@
+echo "This script should trigger the training and testing of your neural network implementation..."
